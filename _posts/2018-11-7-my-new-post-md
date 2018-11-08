@@ -3,6 +3,5 @@ layout: post
 title: karenhistory
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
+The Karen People's History. Over two thousand years ago, the Karen were one of two main groups that settled into what is now Burma (as the Karen like to call Myanmar), while ethnic Burmese immigrated to Burma around a thousand years ago. ... In 1824, the British began their conquest of Burma, which was completed by 1886.
 ![_config.yml]({{ site.baseurl }}/images/config.png)
